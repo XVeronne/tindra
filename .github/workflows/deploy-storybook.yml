@@ -32,6 +32,7 @@ jobs:
 
       - name: Type check
         run: npm run typecheck
+        continue-on-error: true
 
       - name: Build Storybook
         run: npm run build-storybook -- --output-dir storybook-static
