@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__paper__get_guide",
+      "mcp__paper__get_basic_info",
+      "mcp__paper__get_selection",
+      "mcp__paper__get_screenshot",
+      "mcp__paper__get_tree_summary",
+      "mcp__paper__get_children",
+      "mcp__paper__get_jsx"
+    ]
+  }
+}

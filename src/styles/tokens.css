@@ -1,0 +1,47 @@
+:root {
+  --paper: 242 235 221;
+  --paper-raised: 250 246 236;
+  --paper-sunken: 234 224 205;
+
+  --ink: 26 20 16;
+  --ink-muted: 110 95 79;
+  --ink-faint: 168 152 132;
+
+  --hairline: 226 217 197;
+
+  --clay: 201 125 91;
+  --clay-deep: 176 97 62;
+  --clay-soft: 234 200 178;
+
+  --moss: 45 153 116;
+  --moss-deep: 0 133 91;
+  --moss-soft: 198 224 211;
+
+  --burgundy: 169 58 79;
+  --pine: 38 79 74;
+  --ochre: 196 154 58;
+}
+
+.dark {
+  --paper: 26 20 16;
+  --paper-raised: 38 30 24;
+  --paper-sunken: 18 13 10;
+
+  --ink: 242 235 221;
+  --ink-muted: 168 152 132;
+  --ink-faint: 110 95 79;
+
+  --hairline: 56 44 36;
+
+  --clay: 218 144 110;
+  --clay-deep: 201 125 91;
+  --clay-soft: 80 50 32;
+
+  --moss: 90 188 152;
+  --moss-deep: 60 168 130;
+  --moss-soft: 36 70 56;
+
+  --burgundy: 200 92 110;
+  --pine: 90 158 150;
+  --ochre: 220 184 96;
+}
